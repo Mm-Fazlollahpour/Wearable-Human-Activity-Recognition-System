@@ -17,6 +17,7 @@ The implementation combines embedded programming on the ESP32-C3 with a Python-b
 ```text
 software/
 │
+├── HAR_Arduino_Code.ino
 ├── HAR_Zenodo_WiFi_Live_GUI.py
 ├── HAR_Zenodo_WiFi_Dataset_Recorder.py
 └── README.md
