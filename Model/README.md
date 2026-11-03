@@ -11,6 +11,5 @@ model/
 │
 ├── Dataset_Creation.ipynb
 ├── train_model.ipynb
-├── processed_dataset.npz
 ├── trained_model.h5
 └── README.md
