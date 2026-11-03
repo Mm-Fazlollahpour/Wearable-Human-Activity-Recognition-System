@@ -1,7 +1,7 @@
 
 ---
 
-## 2. `software/README.md`
+## `software/README.md`
 
 ```markdown
 # Software Implementation
