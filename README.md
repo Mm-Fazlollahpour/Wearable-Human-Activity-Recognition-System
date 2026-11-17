@@ -3,7 +3,7 @@
 **Embedded Systems · Wearable Technology · IMU-Based Sensing · Wi-Fi Communication · Deep Learning**
 
 <p align="center">
-  <img src="images/device.jpg" alt="Wearable Human Activity Recognition Device" width="500">
+  <img src="Images/device.jpg" alt="Wearable Human Activity Recognition Device" width="500">
 </p>
 
 ## Project Overview
