@@ -14,5 +14,5 @@ Main README image reference:
 
 ```markdown
 <p align="center">
-  <img src="images/device.jpg" alt="Wearable Human Activity Recognition Device" width="500">
+  <img src="Images/device.jpg" alt="Wearable Human Activity Recognition Device" width="500">
 </p>
